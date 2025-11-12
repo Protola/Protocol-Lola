@@ -1,11 +1,11 @@
-# Lola Protocol
+# Protocol Lola
 
 <div align="center">
 
 ![Development Status](https://img.shields.io/badge/status-in%20development-yellow)
 ![License](https://img.shields.io/badge/license-proprietary-blue)
 
-*A Public Reference of Protola’s Blockchain Architecture*
+*A Public Reference of Protocol Lola’s Blockchain Architecture*
 
 </div>
 
@@ -13,7 +13,7 @@
 
 ## 🧩 Overview
 
-**Lola Protocol** is a proprietary blockchain infrastructure that provides dual vault liquidity management, adaptive routing through pre-deployed nodes, and dynamic micro-fee computation under a compliant, governance secured framework powered by **LolaLogic**.
+**Lola** is a proprietary blockchain infrastructure that provides dual vault liquidity management, adaptive routing through pre-deployed nodes, and dynamic micro-fee computation under a compliant, governance secured framework powered by **LolaLogic**.
 
 The public repository serves as a **reference implementation** showcasing the design and structure of the protocol’s core smart-contract ecosystem while omitting confidential operational and deployment details.
 
